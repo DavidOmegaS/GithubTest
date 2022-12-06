@@ -11,8 +11,8 @@ public class rörelse : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        
-        
+
+        print("start game");
 
         
     }
